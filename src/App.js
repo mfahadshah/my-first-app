@@ -8,7 +8,7 @@ function App({name}) {
     <div>Hello From App.js
      <br/>
       <strong>My name is {name}</strong>
-      <Hello color={"green"} fontSize={"thirty"} BgColor={"bg-blue"}/>
+      <Hello color={"blue"} fontSize={"thirty"} BgColor={"bg-green"}/>
     </div>
   );
 }
